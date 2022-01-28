@@ -6005,6 +6005,18 @@
       "age": 13,
       "description": "131313",
       "id": 1001
+    },
+    {
+      "name": "Phantesor",
+      "age": 568,
+      "description": "Noisome cat singular fainted ululate accursed hideous loathsome. Accursed antiquarian shunned loathsome eldritch squamous immemorial. Blasphemous iridescence loathsome eldritch noisome unutterable immemorial fungus. Unutterable stench madness gibbering eldritch antediluvian unmentionable.",
+      "id": 1002
+    },
+    {
+      "name": "Taylor",
+      "age": "38",
+      "description": "I'm just your everyday, average monster.",
+      "id": 1003
     }
   ]
 }
